@@ -8,4 +8,5 @@ Key ML approaches include:
 This project mainly focuses on Content Based Filtering.
 
 Concept: Recommends movies similar to those a user has liked before, based on movie attributes.
+
 ML Aspect: Analyzes movie metadata (genre, director, cast, keywords) and builds a user profile based on liked items. Uses cosine similarity to find similar movie vectors.
